@@ -1,4 +1,4 @@
-# Hi there, I'm Siva M Reddy Annapareddy 👋
+# Hi there, I'm Siva M Reddy Annapareddy 
 
 **AVP & Head – Analytics, Market Insights & Decision Science** at Amrak Pharma
 
