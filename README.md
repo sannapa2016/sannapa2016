@@ -6,19 +6,19 @@ Analytics and insights leader with **18+ years** of experience across the US and
 
 ---
 
-### 🧠 What I Do
+### What I Do
 - Lead Commercial Analytics, Real-World Evidence (RWE), Patient Analytics, and Decision Science
 - Drive therapy adoption, patient adherence, segmentation & targeting, and performance optimization
 - Partner with US stakeholders to deliver measurable business impact
 
-### 📈 Selected Impact
+### Selected Impact
 - **25–30% improvement** in patient adherence
 - **~15% business growth** through data-driven strategies
 - **20% reduction** in time-to-market
 
 ---
 
-### 🛠️ Core Expertise & Skills
+### Core Expertise & Skills
 **Languages & Tools:**
 - Python • R • SQL • SAS
 - Power BI • Tableau • Looker
@@ -33,7 +33,7 @@ Analytics and insights leader with **18+ years** of experience across the US and
 
 ---
 
-### 🚀 Current Focus Areas
+### Current Focus Areas
 - Generative AI & LLMs for analytics automation
 - Causal Inference in RWE studies
 - Cloud-based analytics platforms (Azure / Databricks)
@@ -41,7 +41,7 @@ Analytics and insights leader with **18+ years** of experience across the US and
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - **Email**: sannapa2016@gmail.com
 - **LinkedIn**: [linkedin.com/in/siva-maheswara-reddy-annapareddy](https://linkedin.com/in/siva-maheswara-reddy-annapareddy)
 - **Phone**: +91 9618282345
