@@ -45,7 +45,7 @@ Analytics and insights leader with **18+ years** of experience across the US and
 - **Email**: sannapa2016@gmail.com
 - **LinkedIn**: [linkedin.com/in/siva-maheswara-reddy-annapareddy](https://linkedin.com/in/siva-maheswara-reddy-annapareddy)
 - **Phone**: +91 9618282345
-- **Location**: Hyderabad, India | Open to US opportunities
+- **Location**: Hyderabad, India | Open to US and Canada opportunities
 
 ---
 
